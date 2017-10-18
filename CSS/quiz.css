@@ -1,0 +1,26 @@
+#test	{ 
+	border:#000 1px solid; padding:10px 40px 40px 40px; 
+}
+#test_status	{ 
+	border:#000 1px solid; padding:10px 40px 40px 40px; 
+}
+body {
+            padding-top: 80px;
+        }
+.navbar-brand{
+        font-family:saira;
+        position:relative;
+        float:left;
+        padding: 1em;
+        color: white;
+        background-color: black;
+        text-align: center;
+        width: 100%;
+        }
+footer {
+            padding: 1em;
+            color: white;
+            background-color: black;
+            clear: left;
+            text-align: center;
+}

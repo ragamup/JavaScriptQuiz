@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="CSS/quiz.css">
+<script src="JS//jsq.js"></script>
+</head>
+<body>
+<div class="container">
+          <div class="navbar-header">
+            <a class="navbar-brand">JavaScript Quiz</a>
+          </div>
+        </div><br><br><br>
+<div id="test_status">
+<h2 ></h2>
+</div>
+<div id="test"></div>
+<div>
+    <footer>Copyright &copy; JavaScriptQuizzes</footer>
+</div>
+</body>
+</html>
